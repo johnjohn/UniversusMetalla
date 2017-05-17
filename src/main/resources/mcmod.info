@@ -1,0 +1,16 @@
+[
+{
+  "modid": "universus_metalla",
+  "name": "Universus Metalla",
+  "description": "A Universus mod that introduces many new metals and plenty of items for each.",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "http://universus.johnjohn.io",
+  "updateUrl": "",
+  "authorList": ["johnjohn"],
+  "credits": "johnjohn: Everything (for now)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
